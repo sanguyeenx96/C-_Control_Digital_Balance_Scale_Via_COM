@@ -1,4 +1,4 @@
-# C-_Control_Digital_Balance_Scale_Via_COM
+# C#-_Control_Digital_Balance_Scale_Via_COM
 Kết nối, gửi lệnh + nhận dữ liệu về mày tính từ cân điện tử (shimadzu) qua cổng COM
 
 
